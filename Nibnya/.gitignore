@@ -1,0 +1,30 @@
+# Built outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+build/
+app/build/
+
+# Gradle
+.gradle/
+local.properties
+gradle-app.setting
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+*.iws
+*.ipr
+captures/
+.externalNativeBuild/
+.cxx/
+*.DS_Store
+
+# Keys – never commit real keystores
+# (debugmt.keystore is intentionally committed; real release keys must not be)
+*.jks
+release.keystore
+
+# OS
+Thumbs.db
