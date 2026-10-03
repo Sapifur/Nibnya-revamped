@@ -5,3 +5,7 @@ It is my pleasure and honor to inform you that the app works, the build was succ
 
 ## Disclosure
 The original nibnya was claimed to be built using DeepSeek v4, I have built this version using Claude, so please don't burn me for that.
+
+## Source
+This project is a hard fork of:
+https://github.com/yinghuajimew/Nibnya/
