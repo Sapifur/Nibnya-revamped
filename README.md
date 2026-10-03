@@ -15,6 +15,6 @@ https://github.com/yinghuajimew/Nibnya/
 I host an aternos server with verification mode offline, so whenever I clear my Minecraft app's data, it generates a new uuid, creating a new e chest and inventory, even though the username is same. With this tool, I can just copy paste my old inventory into the new instance, so basically, I did this because I was annoyed.
 
 ## For the future 
-This project has served it's function to me in its fullest, I don't think I need this, and I don't think there is much to add (yeah what will you add in a file explorer), so the updates on this project will be very rare or most likely, none.
+This project has served it's function to me in its fullest and I don't think there is much to add (yeah what will you add in a file explorer), so the updates on this project will be very rare or most likely, none.
 
 Vale, sapiens.
